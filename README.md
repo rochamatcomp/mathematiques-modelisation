@@ -3,7 +3,7 @@
 Remarques pour la mathématiques de la modélisation. Mathématiques et applications. Université Pierre et Marie CURIE, UPMC. Paris, France.
 
 ---
-Auteur: [André ROCHA](https://github.com/rochamatcomp)
+Auteurs: [André ROCHA](https://github.com/rochamatcomp), 
 
 ---
 
